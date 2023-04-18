@@ -16,6 +16,8 @@ for manual patient requests to the doctor. Text Boxes for the responses from the
 
 This is based upon calls into the [Open AI GPT API service](https://platform.openai.com/docs/api-reference/introduction), so you will need your own API key from Open AI. I my owns key, installed as a System Environmental Variable, which I call into from my source code. Following [Immersive Limits example](https://www.youtube.com/watch?v=gI9QSHpiMW0&lc=Ugy_k18DMwZl-9Kw25J4AaABAg) , I downloaded the   [OKGoDolt C# wrapper](https://github.com/OkGoDoIt/OpenAI-API-dotnet) for the Open AI calls, and copied this into the Unity project. This enables us to call Open AI GPT from Unity C# scripts. 
 
+![ScreenShot](Warning.PNG)
+
 There are four Unity script files:
 -   IntroManager.CS         :  This just manages the MainIntroduction Screen Selection
 -   TeacherContoller.CS     :  This is a simple Animator controller for the Patient Character 
