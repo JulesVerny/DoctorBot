@@ -9,10 +9,10 @@ Please see the [brief You Tube Video demonstration here](https://www.youtube.com
 
 ## Unity Scene and Open AI Developent ##
 
-The basic scene is set up in Unity, with two characaters, a Doctor and a Patient.  A basic User Interface is set up 
-for manual patient requests to the doctor. Text Boxes for the responses from the Doctor and patient Chat 
+The basic scene is set up in Unity, with two characters, a Doctor and a Patient.  A basic User Interface is set up 
+for manual patient requests to the doctor. Text Boxes for the responses from the Doctor and patient Chat. Please install the enclosed Unity Asset Package into your Unity Porject to set up this scene and characters.  
 
-This is based upon calls into the [Open AI GPT API service](https://platform.openai.com/docs/api-reference/introduction), so you will need your own API key from Open AI. I my own key has been installed as a System Environmental Variable, which I call into from my source code. Following [Immersive Limits example](https://www.youtube.com/watch?v=gI9QSHpiMW0&lc=Ugy_k18DMwZl-9Kw25J4AaABAg) I downloaded the   [OKGoDolt C# wrapper](https://github.com/OkGoDoIt/OpenAI-API-dotnet) for the Open AI calls, and copied this into the Unity project. This enables us to call Open AI GPT API from within Unity C# scripts. 
+The conversations are invoked through calls into the [Open AI GPT API service](https://platform.openai.com/docs/api-reference/introduction). You will need your own API key from Open AI. My own key has been installed as a System Environmental Variable, which I call into from my source code. Following [Immersive Limits example](https://www.youtube.com/watch?v=gI9QSHpiMW0&lc=Ugy_k18DMwZl-9Kw25J4AaABAg) I downloaded the   [OKGoDolt C# wrapper](https://github.com/OkGoDoIt/OpenAI-API-dotnet) for the Open AI calls, and copied this into the Unity project. This enables us to call Open AI GPT API from within Unity C# scripts. 
 
 ![ScreenShot](Warning.png)
 
