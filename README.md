@@ -6,7 +6,7 @@ I have then used the Google Text to Speech API service to animate the Voices.
     This is a Tech Demo, and is NOT to be used for medical Advice. Please seek Professional Medical advice for any health issues. 
 </span>
 
-![ScreenShot](OverviewPic.PNG)
+![ScreenShot](OverviewPic2.PNG)
 
 
 ## Unity Scene and Open AI Developent ##
