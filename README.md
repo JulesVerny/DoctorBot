@@ -7,6 +7,8 @@ I have also used the Google Text to Speech API service to animate the Voices, of
 ## Video Demonstration ##
 Please see the [brief You Tube Video demonstration here](https://www.youtube.com/watch?v=rAbuMg2NdRY)  
 
+Another example, using very similar code base: [A debate on the Pros and cons of AI.](https://www.youtube.com/watch?v=8zPgAVHOtLs) 
+
 ## Unity Scene and Open AI Developent ##
 
 The basic scene is set up in Unity, with two characters, a Doctor and a Patient.  A basic User Interface is set up 
